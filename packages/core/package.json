@@ -1,0 +1,16 @@
+{
+  "name": "@monitor/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@monitor/types": "workspace:^1.0.0",
+    "@monitor/utils": "workspace:^1.0.0"
+  }
+}
